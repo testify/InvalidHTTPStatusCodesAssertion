@@ -86,7 +86,7 @@
                         <Bundle-Activator>org.codice.testify.assertions.InvalidHTTPStatusCodes.InvalidHTTPStatusCodesAssertion</Bundle-Activator>
                         <Import-Package>
                             org.codice.testify.objects,
-                            dynamic.test.framework.assertions,
+                            org.codice.testify.assertions,
                             org.osgi.framework
                         </Import-Package>
                     </instructions>
